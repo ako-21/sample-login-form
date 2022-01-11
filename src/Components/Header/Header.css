@@ -1,0 +1,10 @@
+
+
+.app-header {
+  justify-content: center !important;
+  background-color: #132c41;
+  padding: 1.5rem 0 1.5rem 0 !important;
+  color: #fff3e2;
+  font-family: Barlow, sans-serif;
+  font-weight: bold;
+}

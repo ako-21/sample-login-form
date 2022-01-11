@@ -1,0 +1,8 @@
+.landing-page {
+  height: calc(100vh - 67px);
+  background-color: #2a7990;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: Barlow, sans-serif;
+}
